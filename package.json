@@ -1,0 +1,24 @@
+{
+  "name": "cado-blockchain",
+  "version": "1.0.0",
+  "description": "Cado Blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev-test": "nodemon dev-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markshipsprods/cado-blockchain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markshipsprods/cado-blockchain/issues"
+  },
+  "homepage": "https://github.com/markshipsprods/cado-blockchain#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
